@@ -38,3 +38,9 @@ text-align: center;
     background-color: #9DB2BF;
     height: 600px;
 }
+
+.body{
+    width: 50%;
+    background-color: aquamarine;
+    padding: 20px;
+}
